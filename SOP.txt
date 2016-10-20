@@ -1,0 +1,73 @@
+Pengenalan Software Aplikasi & Fungsinya (Sistem Operasi, Program Aplikasi, Bahasa Pemrograman)
+- Aplikasi Pengolah Kata (Microsoft Word, WPS Writer, Open Writer, WordPad, Libre Writer)
+- Aplikasi Pengolah Angka (Microsoft Excel, WPS Spreadshet, Open Calc, Libre Calc)
+- Aplikasi Pengolah Presentasi (Microsoft Power Point, WPS Presentation, Open Presentation, Libre Impress)
+- Aplikasi Pengolah Database (Microsoft Access, Libre Base, SQLite)
+- Aplikasi Pengolah Dokumen PDF (acrobat reader, foxit reader)
+- Aplikasi Pengolah Foto (photoshop, picasa, paint, photoscape, gimp, inkscape)
+- Aplikasi Pengolah Video (windows movie maker, sony vegas pro, adobe premiere)
+- Aplikasi Pengolah Multimedia (winamp, aimp, windows media player, gom player)
+- Aplikasi Internet | browser (mozilla firefox, google chrome, opera) chatting (yahoo messanger, gtalk, mirc, skype, telegram) video chat (Viber, Camfrog, Fb Video Chat) email (microsoft outlook, mozilla thunderbird)
+- Aplikasi Game (Pinbal, Spider Solitaire, Chess, Zuma)
+- Aplikasi Utility http://mediaoltik9.blogspot.co.id/2014/08/perangkat-lunak-software-akses-internet.html | antivirus (smadav, avira, avast, avg, kaspersky, panda, norton) archive / compress (winrar, winzip, kgb) Cleaner & Defrag (Disk Defragment, Ccleaner, Tuneup) CD / DVD Tool (Nero, Magic ISO, Ultra Iso, Daemon Tools) Maintenance PC (HDSentinel, HDD Regenerator, HirenBoot, CPUz)
+
+
+Managemen File & Folder
+- Pengertian File & Folder
+- Jenis - Jenis Ektensi File (.txt, .doc, docx, ppt, pptx, xls, xlsx, jpg, jpeg, png, gidf
+- Cara Membuat Folder
+- Cara Membuat File
+- Cara Mengganti Nama File & Folder
+- Cara Menghapus File & Folder
+- Mengembalikan File & Folder yang Dihapus (+ membersihkan recycle bin)
+- Cara Melihat Ukuran File (+ pengertian byte, kilo byte, mega byte, tera byte)
+- Cara Menyalin & Memindahkan File & Folder (+ pembuatan shortcut di desktop)
+
+
+Langkah Menggunakan Kalkulator
+- Start --> All Programs --> Accessories --> Calculator
+
+
+Langkah Membuat Catatan dengan Notes
+- Start --> All Programs --> Accessories --> Sticky Notes
+#Catatan : Secara otomatis widget - widget notes akan muncul di desktop setelah komputer dinyalakan
+
+
+Menggunakan Text Editor Notepad
+- Langkah Membuat Dokumen Text
+- Langkah Menyimpan Dokumen
+- Langkah Membuka Dokumen Text
+- Langkah Menyimpan Dokumen Dengan Nama Baru
+- Langkah Print / Mencetak Dokumen
+#Catatan : Langkah - langkah diatas secara umum diterapkan di software - software office yang lain. Misal membuat laporan - laporan, naskah dokumen, presentasi, dll setelah pekerjaan selesai kita harus menyimpan menggunakan menu Save / Save As.. kemudian memberi nama file, membuka dokumen yang telah disimpan, dan seterusnya.
+
+
+Langkah Mengakses Internet
+1. Istilah - istilah
+2. Langkah Mencari Informasi di Internet
+	- Situs Pencarian (Google.com, Bing.com, Ask.com)
+	- Situs Berita (Detik.com, Merdeka.com, Vivanews.co.id, Tribunnews.com, Kapanlagi.com, dll)
+	- Situs Video (Youtube.com, Dailymotion.com, Vuclip.com)
+	- Situs Edukasi (Wikipedia.com, dll)
+	- Situs Travelling (traveloka, hotel, booking, dll)
+	- Situs Jual Beli Online (Olx.co.id, Bukalapak.com, Tokopedia.com, Lazada.com, dll)
+	- Situs Social Media (facebook.com, twitter.com, instagram.com, dll)
+	- Situs Email (Gmail.com, Yahoo.co.id, Hotmail.com, dll)
+	- Situs Download Software (Download.id, Uptodown.com, Softpedia.com, dll)
+2. Langkah Mendownload File Dari Internet
+	Google.com --> Download Lagu --> http://downloadlagugratis.org --> Pencarian Musik --> Pilih Judul --> Download --> Download --> Save As (cari yg lebih simpel kalo ada)
+	Google.com --> Images / Gambar --> Pencarian Gambar --> Pilih --> View Image / Lihat Gambar --> Klik Kanan, Save image as --> Save As
+	Youtube.com --> Pencarian Video --> Buka Video --> Copas URL --> Buka keepvid.com --> Paste & Submit --> Pilih video --> Save As
+
+	
+Langkah Menggunakan E-Mail
+--> Sign in Gmail
+--> Pengenalan Jendela (inbox, sent mail, spam, personal, layar email, akun, pencarian, dll)
+--> Langkah Mengirimkan Email (Subject, CC, BCC, dll, Lampiran)
+--> dll
+
+
+Langkah Menginstall & Menghapus Software
+--> Langkah download software di download.id atau uptodown.com
+--> Buka File Installer .exe --> Next --> Next Isi Data --> Next --> Finish
+--> Klik Start Menu --> Controll Panel --> Programs & Features --> Double Klik software --> Remove / next --> next --> Finish

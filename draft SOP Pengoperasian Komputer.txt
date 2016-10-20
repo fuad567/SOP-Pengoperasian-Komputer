@@ -1,0 +1,52 @@
+SOP PENGOPERASIAN KOMPUTER
+
+		    |
+		   ||| [GAMBAR PC]
+			|
+
+	SIMPLY FRESH LAUNDRY
+	    Divisi IT
+	    
+
+--> Pengantar & Pengertian Komputer
+	* Pengenalan SOP
+	* Istilah komputer
+	* screenshot OS windows
+--> Pengoperasian Dasar Komputer
+	1. Prosedur Instalasi Komputer
+	2. Langkah Menghidupkan Komputer
+	3. Langkah Mematikan Komputer
+	4. Catatan
+--> Bekerja dengan Komputer
+	- Pengenalan Sistem Operasi Windows 7
+	- Software atau Perangkat Lunak http://celoteh-galang.blogspot.co.id/2012/10/sistem-operasi-program-aplikasi-utility.html | (Pengenalan Software Aplikasi & Fungsinya (aplikasi pengolah kata, angka, dll = excel word pp dll))
+	- Langkah Membuat Folder & Managemen File (membuat folder, membuat file, rename folder & file, menghapus folder & file, mengembalikan file yg dihapus, melihat ukuran file, copy & cut, dll)
+	- Langkah Memutar Gambar, Musik & Video
+	- Langkah Menggunakan Kalkulator	
+	- Langkah Membuat Catatan di Windows dengan Notes
+	- Langkah Mengedit text menggunakan Notepad Editor
+	- Langkah Membuat Dokumen dengan MS Word
+	- Langkah Membuat Laporan dengan MS Excel
+	- Langkah Membuat Presentasi dengan MS Power Point
+	- Langkah Menggambar dengan Komputer --> Paint --> penggunaan & save
+	- Langkah Melakukan Screenshot Layar Komputer
+	- Langkah Mengakses Multimedia (Gambar, Musik & Video)
+	- Langkah Menginstall Software Aplikasi (dikasih screenshoot software store)
+	- Langkah Menghapus Software yang telah Terinstall
+	- Langkah Menghubungkan Komputer ke Internet dengan Modem
+	- Langkah Menghubungkan Komputer ke Internet dengan ISP / Telkom
+	- Langkah Mengakses Internet
+	- Langkah Mengirimkan email & mengirim file via email
+	- Langkah Instalasi Printer (instalasi printer, managemen printing, pengecekan offline & online printer)
+	- Langkah Membersihkan Virus Komputer
+	- Control Panel pada Windows
+	- Managemen User pada windows
+	- Referensi tentang Komputer Dasar
+	- Langkah aplikasi2 dll
+--> Indeks / Istilah - istilah
+
+
+------------------
+Misal cara menggunakan excel, rumus bisa dipelajari di www....com
+
+referensi http://sale-ebook.blogspot.co.id/2012/11/ebook-panduan-lengkap-windows-7.html
